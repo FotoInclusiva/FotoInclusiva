@@ -5,7 +5,6 @@ Una plataforma digital para promover la inclusión laboral de personas con disca
 
  lo más efectivo es pensar en una solución que impacte de forma más amplia y no se centre únicamente en el caso de Julieta. Teniendo esto en cuenta, mi sugerencia sería:
 
-Aquí te presento una versión transformada a un README con emojis y más extensa:
 
 
 ## Introducción ✨
